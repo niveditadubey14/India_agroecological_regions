@@ -4,6 +4,7 @@ Map of agroecological regions of India categorized by the National Bureau of Soi
 About agroecological regions of India: 
 
 The National Bureau of Soil Survey and Land Use Planning (NBSS and LUP), India, has divided the country into 20 agroecological regions ​(Sehgal et al. 1992, 1990), based on our basic types of maps, i.e., soil, physiography, length of growing period (LGP) and bioclimate maps. These agroecological regions are uniform in terms of physiography, climate, length of growing period, and soil type. These 20 agroecological regions are further grouped into five regions (i.e., arid, semi-arid, sub-humid, humid, and coastal regions), mainly based on the LGP and climatic factors.
+
 Please check Dubey and Ghosh 2023 (https://iopscience.iop.org/article/10.1088/1748-9326/acd2ef/meta) for more information about the agroecological regions.
 
 References:
